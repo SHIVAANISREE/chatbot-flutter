@@ -1,5 +1,7 @@
 # 🧠 AI Assistant Flutter App
 
+![video_2025-04-04_08-54-44-ezgif com-optimize (1)](https://github.com/user-attachments/assets/473b5714-ad7e-4328-8a7e-5ca292eedd62)
+
 This is a Flutter-based mobile application that acts as a smart AI assistant. It leverages powerful AI models to chat with users and generate images based on textual prompts.
 
 ## ✨ Features
